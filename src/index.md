@@ -1,0 +1,1 @@
+# Caracterización de la asignatura.
