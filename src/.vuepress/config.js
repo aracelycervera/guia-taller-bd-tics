@@ -28,6 +28,10 @@ module.exports = {
     ],
     sidebar: [
       '/',
+      '/tema01/',
+      '/Tema02/',
+      '/Tema03/',
+      '/Tema04/',
     ]
     },
   
