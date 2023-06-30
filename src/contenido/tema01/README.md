@@ -67,6 +67,13 @@ Tradicionalmente, Oracle ha sido el SGBD por excelencia para el mundo empresaria
  Realizar una  Tabla  describiendo  las características de cada  TIPO DE SGBD 
  :::
 
+##### ejemplo tabla 
+
+
+| nombre SGBD -- característica |
+|--|--|--|
+
+
  ## 1.3 Instalación y configuración del entorno operativo
 
 
@@ -82,3 +89,8 @@ Tradicionalmente, Oracle ha sido el SGBD por excelencia para el mundo empresaria
  ir a [google](https://dev.mysql.com/downloads/workbench/)
 
 ![banner mysql](/images/MySQLInstallerBannerV5.png)
+
+~~~
+Las actividades se van a calificar con las listas de cotejo  de cada actividad ,
+estas listas de cotejo  el docente te indicará donde lo agregará  en el equipo de TEAMS.
+~~~
