@@ -69,11 +69,16 @@ Tradicionalmente, Oracle ha sido el SGBD por excelencia para el mundo empresaria
 
  ## 1.3 Instalación y configuración del entorno operativo
 
-  **Guía para  la descarga e instalación del SGBD MYSQL WORKBENCH** 
+
+
+
+  
+**Guía para  la descarga e instalación del SGBD MYSQL WORKBENCH** 
 
  ir a [google](https://codigosql.top/mysql/instalar-mysql-server-y-mysql-workbench-en-windows-10/)
 
- **LINK  para descargar  el  SGBD MYSQL WORKBENCH Y hacer la instalación del MYQSL WORKBENCH**
+**LINK  para descargar  el  SGBD MYSQL WORKBENCH Y hacer la instalación del MYQSL WORKBENCH**
 
  ir a [google](https://dev.mysql.com/downloads/workbench/)
 
+![banner mysql](/images/MySQLInstallerBannerV5.png)
