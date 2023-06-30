@@ -2,7 +2,7 @@
 
 module.exports = {
   dest: 'docs', 
-  base:'/taller de base de datos/',
+  base:'/guia-taller-bd-tics/',
   title: 'TALLER DE BASE DE DATOS ',
   
   description: 'contenido digital de la asignatura  TALLER DE BASE DE DATOS',
