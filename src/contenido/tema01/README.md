@@ -11,7 +11,7 @@
 ##  1.1 Características del  gestor
 
 **¿QUÉ ES UN GESTOR DE BASE DE DATOS?**
-Un _gestor_ de base de datos o _SGBD_ es una colección de programas cuyo objetivo es servir de interfaz entre la base de datos, el usuario y las aplicaciones. Se compone de un  _lenguaje de definición de datos (DDL)_, de un _lenguaje de manipulación de datos (DML)_.
+Un <span class='text-red'>gestor</span> de base de datos o _SGBD_ es una colección de programas cuyo objetivo es servir de interfaz entre la base de datos, el usuario y las aplicaciones. Se compone de un  _lenguaje de definición de datos (DDL)_, de un _lenguaje de manipulación de datos (DML)_.
 Un _SGBD_ permiten definir los datos a distintos niveles de abstracción y manipular dichos datos, garantizando la seguridad e integridad de estos
  
  **información para la actividad**
@@ -25,7 +25,7 @@ Un _SGBD_ permiten definir los datos a distintos niveles de abstracción y manip
 
 _Herramienta _SGBD_ que ayuda a la administración de base de datos. Herramientas tales como: de creación de bases de datos, de administración de bases de datos, de edición para crear esquemas y consultas de bases de datos, de control, monitoreo y estadísticas de acceso a bases de datos, Instalación y configuración del entorno operativo y Utilerías diversas.
 
-La herramienta _SGBD_ (Sistema Gestor de Base de Datos) es un conjunto de programas que nos permiten gestionar bases de datos. Es decir, realiza las funciones de modificar, extraer y almacenar información de una base de datos, además de poseer herramientas con funciones de eliminar, modificar, analizar datos de estas. Realiza la función concreta de interfaz entre la base de datos y los usuarios finales o los programas correspondientes, organizando los datos y permitiendo su acceso.
+<span class='text-strong'>La herramienta _SGBD_</span> (Sistema Gestor de Base de Datos) es un conjunto de programas que nos permiten gestionar bases de datos. Es decir, realiza las funciones de modificar, extraer y almacenar información de una base de datos, además de poseer herramientas con funciones de eliminar, modificar, analizar datos de estas. Realiza la función concreta de interfaz entre la base de datos y los usuarios finales o los programas correspondientes, organizando los datos y permitiendo su acceso.
 
 #### Características de un SGBD ####
 
